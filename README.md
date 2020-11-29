@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is Asad
 #### I am a remote Software Developer
-![I am a remote Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I am a Full Stack Software Developer with experience in building websites and web applications.
-I specialize in Ruby on Rails, React, and Redux. I've also worked with other technologies including Html, CSS, and Javascript.
+I am a Full Stack Software Developer with experience in building websites and web applications. I specialize in Ruby on Rails, React, and Redux. I've also worked with other technologies including Html, CSS, and Javascript.
 
 Skills: HTML / CSS / JS / React / Ruby / Rails / Python
 
@@ -22,8 +19,6 @@ Skills: HTML / CSS / JS / React / Ruby / Rails / Python
 ![GitHub metrics](https://metrics.lecoq.io/abmAsadullah)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abmAsadullah)  
-
-![Profile views](https://gpvc.arturio.dev/abmAsadullah)  
 
 
 <!--
