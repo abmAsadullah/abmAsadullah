@@ -7,8 +7,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/abmAsadullah)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmAsadullah&layout=compact)](https://github.com/abmasadullah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmAsadullah&layout=compact)](https://github.com/abmasadullah)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chubaquelo&repo=Bootstrap-Newsweek-Clone)](https://github.com/abmAsadullah/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamayun-cpu&repo=Tic-Tac-Toe)](https://github.com/abmAsadullah/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chubaquelo&repo=Bootstrap-Newsweek-Clone)](https://github.com/chubaquelo/Bootstrap-Newsweek-Clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamayun-cpu&repo=Tic-Tac-Toe)](https://github.com/hamayun-cpu/Tic-Tac-Toe)
 
