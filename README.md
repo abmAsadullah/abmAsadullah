@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Asad
 #### I am a remote software developer
-![I am a remote software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a remote software developer](./asad-cover.jpg)
 
  I am a Full Stack Software Developer with experience in building websites and web applications.
 I specialize in Ruby on Rails, React, and Redux. I've also worked with other technologies including Html, CSS, and Javascript.
