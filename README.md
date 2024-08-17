@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Asadullah.</h2>
-<img align="right" alt="GIF" src="./images/side_image.gif" width="500"/>
+<img align="right" alt="GIF" src="./images/side_image.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,7 +11,7 @@
 - ☕ &nbsp; 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-kills: HTML/CSS, JavaScript/TypeScript, Frameworks and Libraries, Version Control, Build Tools, APIs, Desponsive Design, Cros-Browser Compatibility, Performance Optimization, Package Management, Deployment Tools, Component Library, etc.
+Skills: HTML/CSS, JavaScript/TypeScript, Frameworks and Libraries, Version Control, Build Tools, APIs, Desponsive Design, Cros-Browser Compatibility, Performance Optimization, Package Management, Deployment Tools, Component Library, etc.
 
 <h3>🛠 Skills</h3>
 
