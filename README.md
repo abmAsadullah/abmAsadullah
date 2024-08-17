@@ -3,23 +3,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I've 2+ years of professional experience in Web Development.
-- 🎓 &nbsp; I've a Bachelor Degree of Computer Science & Engineering.
-- 💼 &nbsp; Corrently working as a Front-End Developer.
+- 🔭 &nbsp; 2+ years of professional experience in Web Development.
+- 🎓 &nbsp; I have a Bachelor's Degree in Computer Science & Engineering.
+- 💼 &nbsp; Currently working as a Front-End Developer.
 - 🌱 &nbsp; Working both Front-End and Back-End Libraries and Frameworks.
-- ✍️ &nbsp; Have strong idea about Version Control, Build Tools, APIs, Cros-Browser Compatibility, Performance Optimization, etc.
-- ☕ &nbsp; 
+- ✍️ &nbsp; Have a strong idea about Version Control, Build Tools, APIs, Cros-Browser Compatibility, Performance Optimization, etc.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-Skills: HTML/CSS, JavaScript/TypeScript, Frameworks and Libraries, Version Control, Build Tools, APIs, Desponsive Design, Cros-Browser Compatibility, Performance Optimization, Package Management, Deployment Tools, Component Library, etc.
+<h3>🛠 MY Skills </h3>
 
-<h3>🛠 Skills</h3>
-
-- 💻 &nbsp; HTML/CSS | JavaScript | TypeScript | Angular | React | Vue.
-- 🌐 &nbsp; Python | Ruby | Django | Ruby on Rails
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; HTML/CSS | JavaScript | TypeScript | Python | Ruby | C/C++
+- 🌐 &nbsp; Bootstrap | Tailwind CSS | Angular | React | Vue | Django | Ruby on Rails
+- 🛢 &nbsp; Version Control | Build Tools | APIs | Responsive Design | Component Library
+- 🔧 &nbsp; Performance Optimization | Package Management | Deployment Tools | Cros-Browser Compatibility
+- 🖥 &nbsp; Problem Solving | Team Collaboration | Communication | Adaptability | Attention to Detail
 
 <br>
 
@@ -33,9 +31,9 @@ Skills: HTML/CSS, JavaScript/TypeScript, Frameworks and Libraries, Version Contr
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/abmasadullah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/abmasadullah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/bashar__asadullah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/abmasadullah/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="abmasadullah@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
