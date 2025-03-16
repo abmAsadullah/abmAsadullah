@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; 2+ years of professional experience in Web Development.
+- 🔭 &nbsp; Over 3 years of professional experience in Web Development.
 - 🎓 &nbsp; I have a Bachelor's Degree in Computer Science & Engineering.
 - 💼 &nbsp; Currently working as a Front-End Developer.
 - 🌱 &nbsp; Working experience in both Front-End and Back-End Libraries and Frameworks.
